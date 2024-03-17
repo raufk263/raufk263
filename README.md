@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raufk263
 - 👀 I’m interested in Java,C++,Linux,Networking, Cloud
-- 🌱 I’m currently learning Python and Go
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... Web based Projects on backend development.
 - 📫 How to reach me ... raufk263@gmail.com
 
