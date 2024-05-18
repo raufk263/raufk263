@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, Programming and System Design
 - 🌱 I’m currently learning DevOps, Data Structures and algorithms.
 - 💞️ I’m looking to collaborate on DevOps Projects
-- 📫 How to reach me ... raufk263@gmail.com
+- 📫 How to reach me raufk263@gmail.com
 
 
 <!---
