@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @raufk263
+- 👋 Hi, I’m Rauf
 - 👀 I’m interested in DevOps, Programming and System Design
 - 🌱 I’m currently learning DevOps, Data Structures and algorithms.
-- 💞️ I’m looking to collaborate on ... DevOps Projects
+- 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me ... raufk263@gmail.com
+
 
 <!---
 raufk263/raufk263 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
