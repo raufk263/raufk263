@@ -1,4 +1,4 @@
-- Hi, I’m Rauf
+- Hi, I’m Rauf Khan
 - I’m interested in DevOps, Programming and System Design
 - I’m currently learning DevOps, System Design.
 - I’m looking to collaborate on DevOps Projects
