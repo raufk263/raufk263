@@ -1,7 +1,7 @@
 - Hi, I’m Rauf Khan
-- I’m interested in DevOps, Programming and System Design
-- I’m currently learning DevOps, System Design.
-- I’m looking to collaborate on DevOps Projects
+- I am an Cloud Engineer with 2+ years of experience.
+- I have hands on experience in AWS, Linux, Docker, Kubernetes, Terraform, Alerting, Observability, SRE principles, GitOps and many other DevOps tools.
+- I’m looking to collaborate on DevOps and Cloud Projects.
 - How to reach me raufk263@gmail.com
 
 
